@@ -11,7 +11,6 @@ I'm a junior developer focusing on React and TypeScript. While my main focus is 
 ### 🔭 Current Projects
 I'm currently practicing my skills with these projects:
 - **Clicker Game** — A game to practice state management.
-- **GitHub User Search** — App for searching users via GitHub API.
 - **Kanban Board** — Task management tool with drag-and-drop.
 
 ### 📝 Other Stuff
