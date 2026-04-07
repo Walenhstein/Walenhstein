@@ -14,7 +14,7 @@ I'm currently practicing my skills with these projects:
 - **Kanban Board** — Task management tool with drag-and-drop.
 
 ### 📝 Other Stuff
-When I'm not coding, I write fiction and fanfiction. I also run a small Telegram channel **"Записки Графомана"**.
+When I'm not coding, I write fiction and fanfiction. I also run a small Telegram channel [**"Записки Графомана"**](https://t.me/grafomantext).
 
 ---
 <div align="center">
